@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 # vscode
-.vscode
+.vscode/
+*.jpg
+*.zip
+artifacts/prepare_base_model/base_model.h5
+artifacts/prepare_base_model/base_model_updated.h5
